@@ -8,5 +8,9 @@ namespace Test230519
 {
     class Class1
     {
+        public Class1()
+        {
+
+        }
     }
 }
