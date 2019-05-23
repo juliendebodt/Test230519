@@ -12,6 +12,7 @@ namespace Test230519
         {
             // ceci est un commentaire
             int i=0;
+            //azerty
         }
     }
 }
