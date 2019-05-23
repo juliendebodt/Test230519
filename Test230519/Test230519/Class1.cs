@@ -10,7 +10,8 @@ namespace Test230519
     {
         public Class1()
         {
-
+            // ceci est un commentaire
+            int i=0;
         }
     }
 }
