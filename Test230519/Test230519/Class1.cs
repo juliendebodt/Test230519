@@ -8,6 +8,9 @@ namespace Test230519
 {
     class Class1
     {
-        //ceci est un com
+        public Class1()
+        {
+
+        }
     }
 }
